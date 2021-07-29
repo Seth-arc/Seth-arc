@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Seth-arc
+- 👀 I’m interested in online instructional and learning design. 
+- 🌱 I’m currently learning about Adaptive Learning Design 
+- 💞️ I’m looking to collaborate on ...
+- 📫 If you need to reach me, look for my Twitter profile @OfficialSethu
