@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seth-arc
 - 👀 I’m interested in online instructional and learning design. 
-- 🌱 I’m currently learning about Connectivism, Learning Analytics and Adaptive Learning Systems
-- 💞️ I’ve set this github up in order to chronicle research work and projects of interest
+- 🌱 I’m currently learning about Game-Based Learning Virtual Reality, Adaptive Learning Systems
+- 💞️ I’ve set this github up in order to store my project ideas and prototypes. Most are still a work in progress...
 - 📫 If you would like to reach me, look my Twitter profile is @OfficialSethu
